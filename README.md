@@ -4,6 +4,8 @@
 - :computer: Constantemente em busca de desafios
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulhoes1998&layout=compact)](https://github.com/bulhoes1998)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulhoes1998&show_icons=true&theme=radical)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bulhoes1998)](https://github.com/anuraghazra/github-readme-stats)
 
 

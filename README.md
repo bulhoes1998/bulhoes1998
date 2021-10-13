@@ -4,7 +4,7 @@
 - :computer: Constantemente em busca de desafios
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulhoes1998&layout=compact)](https://github.com/bulhoes1998)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulhoes1998&layout=compact)](https://github.com/bulhoes1998)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulhoes1998)](https://github.com/bulhoes1998)
 
 
 

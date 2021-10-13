@@ -1,5 +1,5 @@
-- 👋 Olá! Eu sou o Lucas Bulhões
-- 💻 Hoje trabalho com automação de análises de dados
+## Sobre mim
+- :neckbeard:	Matemático/Computeiro
 - 🌱 Estudando front-end
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulhoes1998)](https://github.com/bulhoes1998)

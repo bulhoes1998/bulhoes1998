@@ -7,8 +7,12 @@
 ````C#
 
 {
-  :nome: 'Lucas Bulhões',
-  :age: 23
+  "name": "Lucas Bulhões",
+  "age": 23,
+  "work-place": "Itaú Unibanco",
+  "education": "B.Sc. in Mathematics @ UFBA",
+  "city": "Salvador, :brazil:"
+  
 }
 
 

@@ -4,16 +4,20 @@
 - :computer: Constantemente em busca de desafios
 - :heart: Java
 
-```C#
+```Clojure
 
-{
-  "name": "Lucas Bulhões",
-  "age": 23,
-  "work-place": "Itaú Unibanco",
-  "education": "B.Sc. in Mathematics @ UFBA",
-  "city": "Salvador, :brazil:"
+(def lucas
+{:name "Lucas Bulhões"
+   :age 23
+   :work-place "Itaú Unibanco"
+   :education "B.Sc. in Mathematics @ UFBA"]
+   :city "Salvador, BR"
+   :interests ["Object Oriented Programming" 
+               "cryptography" "free software" 
+               "math" "economy"]
+   :lang [BR, EN]})
   
-}
+)
 
 
 ```

@@ -1,7 +1,6 @@
 ---
 
 <img src="https://github.com/bulhoes1998/bulhoes1998/blob/main/unnamed.gif"
-     alt="Functional way is the right way"
      style="margin-top:20px;"
      height="215px"
      align="left" />

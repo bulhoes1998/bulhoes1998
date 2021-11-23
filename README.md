@@ -4,7 +4,7 @@
 - :computer: Constantemente em busca de desafios
 - :heart: Java
 
-````C#
+```C#
 
 {
   "name": "Lucas Bulhões",
@@ -16,7 +16,7 @@
 }
 
 
-````
+```
 
 
 <!---

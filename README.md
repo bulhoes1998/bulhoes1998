@@ -1,8 +1,10 @@
-## Sobre mim
-- :neckbeard:	Matemático/Computeiro
-- :mortar_board: Estagiário back-end Developer
-- :computer: Constantemente em busca de desafios
-- :heart: Java
+---
+
+<img src="https://github.com/bulhoes1998/bulhoes1998/blob/main/unnamed.gif"
+     alt="Functional way is the right way"
+     style="margin-top:20px;"
+     height="215px"
+     align="left" />
 
 ```Clojure
 
@@ -16,9 +18,6 @@
                "cryptography" "free software" 
                "math" "economy"]
    :lang [BR, EN]})
-  
-)
-
 
 ```
 

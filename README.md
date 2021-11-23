@@ -4,9 +4,13 @@
 - :computer: Constantemente em busca de desafios
 - :heart: Java
 
-````Java
+````C#
 
-System.out.println("Hello, World!");
+{
+  :nome: 'Lucas Bulhões',
+  :age: 23
+}
+
 
 ````
 

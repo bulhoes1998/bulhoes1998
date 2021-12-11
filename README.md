@@ -10,7 +10,6 @@
 (def lucas
 {:name "Lucas Bulhões"
    :age 23
-   :work-place "Itaú Unibanco"
    :education "B.Sc. in Mathematics @ UFBA"]
    :city "Salvador, BR"
    :interests ["Object Oriented Programming" 

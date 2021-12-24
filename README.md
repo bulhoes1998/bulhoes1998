@@ -5,7 +5,7 @@
      height="215px"
      align="left" />
 
-```Clojure
+```Erlang
 
 (def lucas
 {:name "Lucas Bulhões"

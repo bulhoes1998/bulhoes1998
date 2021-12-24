@@ -22,7 +22,8 @@
 ---
 <link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
 <i class="programming lang-elixir"></i>
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/elixir/elixir.png" height="50">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulhoes1998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>

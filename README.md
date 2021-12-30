@@ -12,7 +12,7 @@
    :age 23
    :education "B.Sc. in Mathematics @ UFBA"]
    :city "Salvador, BR"
-   :interests ["Object Oriented Programming" 
+   :interests ["Functional Programming" 
                "cryptography" "free software" 
                "math" "economy"]
    :lang [BR, EN]})

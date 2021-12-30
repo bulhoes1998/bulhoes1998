@@ -5,7 +5,7 @@
      height="215px"
      align="left" />
 
-```Erlang
+```Elixir
 
 (def lucas
 {:name "Lucas Bulhões"

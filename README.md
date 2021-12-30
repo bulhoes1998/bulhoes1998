@@ -8,14 +8,14 @@
 ```Elixir
 
 (def lucas
-{:name: "Lucas Bulhões"
-   :age: 23
-   :education: "B.Sc. in Mathematics @ UFBA"]
-   :city: "Salvador, BR"
-   :interests: ["Functional Programming", 
-               "cryptography", "free software", 
-               "math", "economy"]
-   :lang: [BR, EN]})
+{:name "Lucas Bulhões"
+   :age 23
+   :education "B.Sc. in Mathematics @ UFBA"]
+   :city "Salvador, BR"
+   :interests ["Functional Programming" 
+               "cryptography" "free software" 
+               "math" "economy"]
+   :lang [BR, EN]})
 
 ```
 

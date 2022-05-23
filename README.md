@@ -1,9 +1,3 @@
----
-
-<img src="https://github.com/bulhoes1998/bulhoes1998/blob/main/unnamed.gif"
-     style="margin-top:20px;"
-     height="215px"
-     align="left" />
 
 ```Elixir
 
@@ -18,8 +12,6 @@
    :lang [BR, EN]})
 
 ```
-
----
 
 <a href="https://avatars.githubusercontent.com/u/1481354?s=200&v=4">
 

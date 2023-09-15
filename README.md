@@ -5,8 +5,7 @@ var lucas = map[string]interface{}{
     "age": 25,
     "education": "B.Sc. in Mathematics - UFBA",
     "city": "Salvador, BR"
-    "interests": []string{"math", "free software", "cryptography", "economy"}
-
+    "interests": []string{"math", "free software", "cryptography", "economy"},
     "lang": []string{"PT", "ES"}
 }
 ```
